@@ -1,0 +1,72 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" /><label
+    	id="DateLabel" x="245" y="75" font="Graphics.FONT_SMALL"
+    	justification="Graphics.TEXT_JUSTIFY_RIGHT"></label>
+    <label
+    	id="StKLabel" x="178" y="34" font="Graphics.FONT_TINY"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+    <label
+    	id="LatLngLabel" x="178" y="62" font="Graphics.FONT_XTINY"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+    <label
+    	id="StationLabel" x="40" y="168" font="Graphics.FONT_TINY"
+    	justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+    	id="CurrentLabel" x="center" y="210" font="Graphics.FONT_LARGE"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+    <label
+    	id="TimeagoLabel" x="center" y="242" font="Graphics.FONT_SMALL"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+    <label
+    	id="SunriseSunsetLabel" x="center" y="195" font="Graphics.FONT_XTINY"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+     <label
+    	id="BattPctLabel" x="center" y="5" font="Graphics.FONT_MEDIUM"
+    	justification="Graphics.TEXT_JUSTIFY_CENTER"></label>
+    <label
+        id="ForecastLabelMax1" x="50" y="32" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMax2" x="50" y="46" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMax3" x="50" y="60" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMax4" x="50" y="74" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMax5" x="50" y="88" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMin1" x="68" y="32" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMin2" x="68" y="46" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMin3" x="68" y="60" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMin4" x="68" y="74" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelMin5" x="68" y="88" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelRF1" x="86" y="32" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelRF2" x="86" y="46" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelRF3" x="86" y="60" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelRF4" x="86" y="74" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+    <label
+        id="ForecastLabelRF5" x="86" y="88" font="Graphics.FONT_XTINY"
+        justification="Graphics.TEXT_JUSTIFY_LEFT"></label>
+</layout>
